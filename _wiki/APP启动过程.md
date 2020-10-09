@@ -1,9 +1,9 @@
 ---
-layout: wiki
-title: Android Studio
-categories: Android
-description: Android Studio 快捷键及使用技巧汇总
-keywords: Android, Android Studio
+layout: post
+title: APP启动过程
+categories: Blog
+description: APP启动过程。
+keywords: APP启动过程
 ---
 
 #APP启动过程
