@@ -1,3 +1,12 @@
+
+---
+layout: wiki
+title: Source Insight
+categories: Tools
+description: Source Insight 工具的快捷键及使用日常。
+keywords: Source Insight
+---
+
 #APP启动过程
 ---
 
