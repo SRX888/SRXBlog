@@ -1,10 +1,9 @@
-
 ---
 layout: wiki
-title: Source Insight
-categories: Tools
-description: Source Insight 工具的快捷键及使用日常。
-keywords: Source Insight
+title: Android Studio
+categories: Android
+description: Android Studio 快捷键及使用技巧汇总
+keywords: Android, Android Studio
 ---
 
 #APP启动过程
