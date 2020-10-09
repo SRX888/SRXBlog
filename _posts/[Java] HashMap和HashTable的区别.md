@@ -1,3 +1,17 @@
+ ---
+layout: post
+title: HashMap和HashTable的区别
+categories: Java
+description:  HashMap和HashTable的区别
+keywords: HashMap, HashTable
+---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  - HashTable
 
 
