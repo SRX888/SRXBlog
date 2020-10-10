@@ -31,7 +31,6 @@ counter = null; // now Counter object is eligible for garbage collection
 ```java
 Counter prime = new Counter(); // prime holds a strong reference 
 SoftReference soft = new SoftReference(prime) ; //soft reference variable has SoftReference to Counter Object created at line 2
- 
 prime = null; // now Counter object is eligible for garbage collection but only be collected when JVM absolutely needs memory
 ```
 
@@ -46,7 +45,6 @@ prime = null; // now Counter object is eligible for garbage collection but only 
 ```java
 DigitalCounter digit = new DigitalCounter(); // digit reference variable has strong reference – line 3
 PhantomReference phantom = new PhantomReference(digit); // phantom reference to object created at line 3
- 
 digit = null;
 ```
 
